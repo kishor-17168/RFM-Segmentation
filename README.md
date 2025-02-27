@@ -32,7 +32,7 @@ The total sales and profit figures provide insights into the overall financial p
 | **Total Sales**  | $8,697,976.17 |
 | **Total Profit** | $1,250,195.99 |
 
-### Interpretation  
+#### Interpretation  
 - The total revenue generated is **$8.69M**, with a net profit of **$1.25M**.
 - The profit margin is approximately **14.38%** (**Total Profit / Total Sales**).
 - While the business is profitable, further investigation is required to identify top-performing customer segments, products, and regions contributing to revenue and profitability.
