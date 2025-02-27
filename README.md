@@ -98,7 +98,75 @@ Identifying the most frequently ordered products helps in inventory management a
 ### Interpretation  
 - **Office furniture and accessories dominate** the list, indicating strong demand in this category.  
 - **Small office supplies (binders, scissors, envelopes)** are also frequently ordered, highlighting their necessity in workplaces.  
-- **Further analysis** can help in stock optimization and pricing strategies to maximize profitability.  
+- **Further analysis** can help in stock optimization and pricing strategies to maximize profitability.
+
+
+## RFM Analysis Results and Interpretation
+
+### 1. **Customer Segments and Key Metrics**
+
+| **Customer Segment**               | **Number of Customers** | **Average Frequency** | **Average Monetary Value** |
+|------------------------------------|-------------------------|-----------------------|----------------------------|
+| **CHURNED CUSTOMER**               | 632                     | 1                     | 404                        |
+| **CANNOT BE DEFINED**              | 617                     | 3                     | 3140                       |
+| **ACTIVE**                         | 409                     | 3                     | 1000                       |
+| **NEW CUSTOMERS**                  | 21                      | 3                     | 140                        |
+| **POTENTIAL CHURNERS**             | 263                     | 3                     | 1171                       |
+| **LOYAL**                          | 406                     | 6                     | 8647                       |
+| **SLIPPING AWAY, CANNOT LOSE**     | 320                     | 6                     | 7108                       |
+
+### 2. **Interpretation of Results**
+
+#### **Loyal Customers (RFM Score '444')**
+- **Number of Customers:** 406
+- **Average Frequency:** 6
+- **Average Monetary Value:** 8647
+- **Insight:** This group has the highest frequency and monetary value, meaning they are the most valuable customers for the business. They regularly purchase and spend large amounts. Retaining these customers is crucial for business profitability.
+
+#### **Slipping Away, Cannot Lose (RFM Score '434')**
+- **Number of Customers:** 320
+- **Average Frequency:** 6
+- **Average Monetary Value:** 7108
+- **Insight:** These customers are similar to loyal customers in frequency and spend, but they have shown some decline in recency. They are high-value customers who may be at risk of churn, and targeted campaigns should be used to keep them engaged.
+
+#### **Active Customers (RFM Score '323' or '333')**
+- **Number of Customers:** 409
+- **Average Frequency:** 3
+- **Average Monetary Value:** 1000
+- **Insight:** These customers are engaged and make frequent purchases, but they spend less on average compared to loyal customers. Retaining these customers and increasing their purchase value through promotions or loyalty programs is a key opportunity.
+
+#### **Potential Churners (RFM Score '232' or '233')**
+- **Number of Customers:** 263
+- **Average Frequency:** 3
+- **Average Monetary Value:** 1171
+- **Insight:** These customers make purchases regularly but have not purchased recently. They are at risk of churning and require re-engagement efforts, such as special offers or reminders, to prevent them from leaving.
+
+#### **New Customers (RFM Score '311')**
+- **Number of Customers:** 21
+- **Average Frequency:** 3
+- **Average Monetary Value:** 140
+- **Insight:** This group consists of customers who have just made their first purchase. While their average spend is low, increasing their purchase frequency and value should be a priority. Engaging them early with offers can drive long-term loyalty.
+
+#### **Churned Customers (RFM Score '111')**
+- **Number of Customers:** 632
+- **Average Frequency:** 1
+- **Average Monetary Value:** 404
+- **Insight:** These customers have not made recent purchases, have low frequency, and their spend is significantly lower. They represent lost revenue potential, and strategies to win them back, such as targeted reactivation campaigns, could be effective.
+
+#### **Cannot Be Defined (RFM Score 'undefined')**
+- **Number of Customers:** 617
+- **Average Frequency:** 3
+- **Average Monetary Value:** 3140
+- **Insight:** This group consists of customers whose RFM combination doesn't fit into the defined segments. Further analysis could help refine the segmentation for these customers to understand their behavior better.
+
+### 3. **Overall Insights**
+- **Loyal Customers:** The business’s most valuable customers are those who make frequent, high-value purchases. Retaining this group is crucial.
+- **Slipping Away Customers:** While these customers are high spenders, their frequency and recency indicate they might be at risk. They require immediate re-engagement.
+- **Active and Potential Churners:** Both groups make frequent purchases but at different spending levels. Strategies to increase the spend of active customers and retain potential churners are essential.
+- **Churned Customers:** This segment is highly disengaged, and significant effort is needed to win them back.
+
+These insights should guide marketing strategies, where businesses can focus on retaining loyal customers, re-engaging those at risk of churning, and nurturing new customers to build long-term value.
+
 
 
 
