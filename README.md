@@ -14,3 +14,8 @@ The objective of this project is to implement **RFM (Recency, Frequency, Monetar
 - To help businesses identify valuable customers for targeted marketing.
 - To improve customer retention by understanding purchasing patterns.
 
+## Files:
+
+## Methodology:
+1. Renaming Columns: The original dataset columns were renamed to more meaningful and consistent names using ALTER TABLE commands.
+
