@@ -102,6 +102,40 @@ Identifying the most frequently ordered products helps in inventory management a
 
 
 ## RFM Analysis Results and Interpretation
+### RFM Segmentation Categories
+
+Based on the **RFM Score Combination**, customers are classified into different segments:
+
+#### i. Churned Customers
+Customers who have stopped purchasing and are at high risk of being lost.  
+**RFM Score Combinations:**  
+`111, 112, 121, 132, 211, 212, 114, 141`
+
+#### ii. Slipping Away, Cannot Lose
+Customers who are showing signs of decreasing engagement and need attention.  
+**RFM Score Combinations:**  
+`133, 134, 143, 224, 334, 343, 344, 144`
+
+#### iii. New Customers
+Recently acquired customers with low frequency and monetary value but potential for growth.  
+**RFM Score Combinations:**  
+`311, 411, 331`
+
+#### iv. Potential Churners
+Customers who are not very active and could stop purchasing soon.  
+**RFM Score Combinations:**  
+`222, 231, 221, 223, 233, 322`
+
+#### v. Active Customers
+Regular customers who make frequent purchases and have a stable engagement.  
+**RFM Score Combinations:**  
+`323, 333, 321, 341, 422, 332, 432`
+
+#### vi. Loyal Customers
+High-value customers who make frequent and high-spending purchases.  
+**RFM Score Combinations:**  
+`433, 434, 443, 444`
+
 
 ### 1. **Customer Segments and Key Metrics**
 
